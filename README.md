@@ -1,2 +1,2 @@
-# crypto_arbitrage
-Cryptocurrency Arbitrage 
+# crypto_trading app (in progress)
+Cryptocurrency trade
